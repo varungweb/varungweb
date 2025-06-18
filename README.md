@@ -1,41 +1,54 @@
 # 👋 Hi, I'm Varun Gupta
 
-🚀 **DevOps Engineer | Cloud Infrastructure | Docker & Automation | Monitoring Specialist**
+🚀 **DevOps Engineer | AWS Cloud | Docker | CI/CD | Monitoring | Automation**
 
-Welcome to my GitHub profile! I'm a passionate DevOps Engineer with over **2.5 years of experience**, I specialize in cloud infrastructure, containerization, monitoring, and automation—delivering reliable and scalable DevOps solutions in both cloud and self-hosted environments.
+Welcome to my GitHub profile! I'm a passionate DevOps Engineer with **2.5 years of experience**. I specialize in cloud infrastructure, containerization, automation, monitoring, and deployment pipelines—delivering reliable and scalable DevOps solutions in both cloud and self-hosted environments.
 
 ---
 
 ## 🔧 Technical Expertise
 
 ### ☁️ Cloud Platforms
-- **AWS**: EC2, VPC, RDS (SQL Server, MySQL), ECS, Fargate, S3, IAM, Route53, CloudWatch, CloudTrail, Workspaces, ElastiCache
+- **AWS** (Certified Cloud Practitioner): EC2, VPC, RDS (SQL Server, MySQL), ECS, Fargate, S3, IAM, Route53, CloudWatch, CloudTrail, Workspaces, ElastiCache, Secrets Manager
 - **GCP**: Automated deployments using GitHub Actions
+- Experience in **cost optimization** by analyzing usage reports and optimizing resources (EBS, EC2, storage, etc.)
+- **Azure to AWS migration** including network and service architecture redesign
 
-### 🐳 Containers & DevOps Tools
-- **Docker** & **Docker Compose** for application packaging and deployment
-- Created optimized **Dockerfiles** for projects in **Node.js**, **React**, **Python**, and more
-- Worked with various **open-source tools** in containerized environments
-- **Nginx Proxy Manager** for domain hosting with **Let's Encrypt SSL** and **Cloudflare DNS**
+### 🏗️ Infrastructure Design & Networking
+- Designed and migrated hybrid infrastructure (on-prem and Azure) to AWS
+- Worked on **networking components**: subnets, VPC peering, NAT gateways, route tables, DNS (Route53, Cloudflare)
+- Managed remote connectivity with **WireGuard**, **TailScale**, and **OpenVPN**
+- Implemented secure access and DR strategies using S3, Glacier, and IAM policies
+
+### 🐳 Containers & DevOps Tooling
+- **Docker** and **Docker Compose** for app packaging and environment isolation
+- Created optimized Dockerfiles for **Node.js**, **React**, **Python**, and open-source tools
+- Deployed apps using **GitLab CI (self-hosted)** and **GitHub Actions**
+- Worked with **Nginx Proxy Manager**, **Let's Encrypt**, and **Cloudflare DNS** for multi-domain hosting via Docker
 - **Nginx stream module** for secure remote RDP access
 
-### ⚙️ CI/CD & Automation
+### ⚙️ CI/CD Pipelines
 - Implemented pipelines with **GitLab CI (self-hosted)** and **GitHub Actions**
-- Automated deployments to AWS and GCP
-- Experience in scripting automation with **Bash** and **Python**
-- Responsible for **building and deploying Dockerized applications**
-- Maintained **Root Cause Analysis (RCA)** documentation and handled issue tracking via **Azure Boards** and **Wiki**
+- Automated deployments to AWS and GCP.
+- Prior Experience with Jenkins as well.
 
-### 📈 Monitoring & Troubleshooting
-- Infrastructure monitoring using **Datadog**
-- Managed dashboards for **400+ servers**, monitored **150+ US Government URLs and SSLs**
-- Implemented **Grafana + Prometheus**, **Node Exporter**, and **cAdvisor** stack in Docker to monitor container and host metrics
-- Level-1 troubleshooting of system health, alerts, and uptime
+### ⚙️ Automation & IaC
+- Used **Shell** and **Python** scripts for backups, deployments, and monitoring
+- Integrated API-based workflows (e.g., AWS, Datadog, Cloudflare) for automated alerts and syncs
+- Configured Microsoft Power Automate to extract filtered alerts from Microsoft Teams into Excel for analysing them using pivots.
+- Maintained **RCA documents**, ticketing with **Azure Boards**, and SOPs/wiki pages.
 
-### 🧪 Database & Backups
-- MySQL and SQL Server management in Docker environments
-- Set up custom **FTP servers** for internal transfers and backups
-- Automated backups using custom **shell scripts** and **Python scripts**
+### 📈 Monitoring & Observability
+- Monitored 400+ servers and 150+ URLs (including US Gov sites) using **Datadog**
+- Set up Docker-based stacks: **Grafana + Prometheus**, **Node Exporter**, **cAdvisor**,
+- Set up live logs visibility for team using self hosted tool **Dozzle**
+- Automated dashboards and alerts; used **Power Automate** to send health reports to Excel/Teams.
+- Monitored Kubernetes clusters, Nodes and Pods with **Datadog’s K8s Overview**
+
+### 🧪 Database & Backup Management
+- MySQL, PostgreSQL, SQL Server, MongoDB on Docker and AWS RDS
+- Set up **FTP servers**, automated backups using scripts
+- Managed secrets securely with **AWS Secrets Manager**
 
 ---
 
@@ -53,7 +66,23 @@ Beyond work, I actively manage a **Homelab server** for testing and learning usi
 
 ---
 
-## 📌 Project Highlights
+## 📌 Projects
+
+1. **ALCARINC – AWS Workspace Setup**
+   - Created secure AWS Workspaces environment with custom AD, security, backups, and performance monitoring
+
+2. **GYMTIME – CI/CD Pipeline**
+   - Built GitLab CI pipeline with Docker, AWS ECR & Fargate for zero-downtime deploys.
+
+3. **AVERISOURCE – Azure to AWS Migration**
+   - Migrated infra, set up VPN via Transit Gateway, integrated Azure Entra ID, used S3 + Rclone + Filestash.
+
+4. **OPEXUS TECH – Monitoring & Support**
+   - Supported 400+ servers, 150+ US Govt. Sites monitoring and DevOps Support, Datadog dashboards, WireGuard VPN access, K8s pod/node monitoring.
+
+---
+
+## 📌 Highlights
 
 - Built & managed CI/CD pipelines automating cloud deployments
 - Delivered full-stack containerized solutions in Node.js, Python, and React
@@ -63,22 +92,42 @@ Beyond work, I actively manage a **Homelab server** for testing and learning usi
 
 ---
 
-## 📫 Let's Connect
+## 🛠️ Tools & Technologies
 
-I'm always open to collaborating on DevOps tools, cloud automation, and infrastructure projects. You can reach out to me via:
-
-- **Email**: varungweb1@gmail.com
-- **LinkedIn**: [linkedin.com/in/varunguptag](https://www.linkedin.com/in/varunguptag/)
-- **GitHub**: You're already here! Feel free to explore my pinned repos.
+- **Cloud**: AWS (Certified), GCP, Azure
+- **DevOps**: Docker, Docker Compose, Kubernetes, GitHub Actions, GitLab CI, Jenkins
+- **Monitoring**: Datadog, Prometheus, Grafana, CloudWatch, cAdvisor, Dozzle
+- **Networking**: OpenVPN, WireGuard, TailScale, Cloudflare, Route53
+- **Scripting**: Shell, Python, Power Automate
+- **Databases**: MySQL, PostgreSQL, SQL Server, MongoDB
+- **Version Control**: Git, GitHub, GitLab
+- **Virtualization**: VMware, VirtualBox, QEMU, Proxmox etc.
+- **Security & Secrets**: IAM, Secrets Manager, VPN, SSL, Firewall
 
 ---
 
-## 🔍 Currently Exploring
+## 📜 Certifications
 
-- **Kubernetes** for orchestration
-- **Terraform** for infrastructure as code
-- **Multi-cloud deployment strategies**
-- **Zero-trust networking** and advanced VPN configurations
+- ✅ **AWS Certified Cloud Practitioner**
+
+---
+
+## 🧠 Currently Exploring
+
+- **Kubernetes** in production with GitOps workflows
+- **Advanced Infrastructure Automation** using Terraform Modules
+- **Multi-cloud deployments** and cost governance
+- **Serverless architectures** and Event-driven DevOps
+
+---
+
+## 📫 Let's Connect
+
+I'm open to collaboration, freelance, or full-time opportunities related to cloud, automation, and DevOps tooling.
+
+- **Email**: varungweb1@gmail.com
+- **LinkedIn**: [linkedin.com/in/varunguptag](https://www.linkedin.com/in/varunguptag/)
+- **💻 GitHub**: You're here—check out my pinned repos!
 
 ---
 
@@ -86,4 +135,4 @@ I'm always open to collaborating on DevOps tools, cloud automation, and infrastr
 
 In my free time, I enjoy building and managing self-hosted solutions on Raspberry Pi, testing network configurations, and automating everyday DevOps tasks with custom scripting.
 
-Thanks for stopping by! 😊
+Thanks for visiting! 😊
