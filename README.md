@@ -114,10 +114,10 @@ Beyond work, I actively manage a **Homelab server** for testing and learning usi
 
 ## 🧠 Currently Exploring
 
-- **Kubernetes** in production with GitOps workflows
-- **Advanced Infrastructure Automation** using Terraform Modules
-- **Multi-cloud deployments** and cost governance
-- **Serverless architectures** and Event-driven DevOps
+- **Kubernetes** for orchestration
+- **Terraform** for infrastructure as code
+- **Multi-cloud deployment strategies**
+- **Zero-trust networking** and advanced VPN configurations
 
 ---
 
