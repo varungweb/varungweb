@@ -62,7 +62,7 @@ Beyond work, I actively manage a **Homelab server** for testing and learning usi
 - 🌐 Hosted multiple web applications using **Docker** and **Nginx Proxy Manager**
 - 📡 Connected domains with **Cloudflare DNS** and configured SSL with Let's Encrypt
 - 💾 Remote backup system combining **FTP**, **MySQL**, and scripting
-- ⚙️ Previously worked with **aaPanel**, **DNCPanel**, **WHM/cPanel** for Linux hosting
+- ⚙️ Previously worked with **aaPanel** and **WHM/cPanel** for Linux hosting
 
 ---
 
