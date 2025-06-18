@@ -2,7 +2,7 @@
 
 🚀 **DevOps Engineer | Cloud Infrastructure | Docker & Automation | Monitoring Specialist**
 
-Welcome to my GitHub profile! I'm a passionate DevOps Engineer with over **2.5 years of experience**, currently working at **QSS Technosoft, Noida**. I specialize in cloud infrastructure, containerization, monitoring, and automation—delivering reliable and scalable DevOps solutions in both cloud and self-hosted environments.
+Welcome to my GitHub profile! I'm a passionate DevOps Engineer with over **2.5 years of experience**, I specialize in cloud infrastructure, containerization, monitoring, and automation—delivering reliable and scalable DevOps solutions in both cloud and self-hosted environments.
 
 ---
 
