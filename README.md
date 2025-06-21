@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Varun Gupta
 
-🚀 ** AWS Certified DevOps Engineer | AWS Cloud | Docker | CI/CD | Monitoring | Automation**
+🚀 **AWS Certified DevOps Engineer | AWS Cloud | Docker | CI/CD | Monitoring | Automation**
 
 Welcome to my GitHub profile! I'm a passionate DevOps Engineer with **2.5 years of experience**. I specialize in cloud infrastructure, containerization, automation, monitoring, and deployment pipelines, delivering reliable and scalable DevOps solutions in both cloud and self-hosted environments.
 
@@ -121,7 +121,7 @@ I'm open to collaboration, freelance, or full-time opportunities related to clou
 
 - **Email**: varungweb1@gmail.com
 - **LinkedIn**: [linkedin.com/in/varunguptag](https://www.linkedin.com/in/varunguptag/)
-- **💻 GitHub**: You're here—check out my pinned repos!
+- **💻 GitHub**: You're here check out my pinned repos!
 
 ---
 
