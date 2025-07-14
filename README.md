@@ -2,7 +2,7 @@
 
 🚀 **AWS Certified DevOps Engineer | AWS Cloud | Docker | CI/CD | Monitoring | Automation**
 
-Welcome to my GitHub profile! I'm a passionate DevOps Engineer with **2.5 years of experience**. I specialize in cloud infrastructure, containerization, automation, monitoring, and deployment pipelines, delivering reliable and scalable DevOps solutions in both cloud and self-hosted environments.
+Welcome to my GitHub profile! I'm a passionate DevOps Engineer with **3 years of experience**. I specialize in cloud infrastructure, containerization, automation, monitoring, and deployment pipelines, delivering reliable and scalable DevOps solutions in both cloud and self-hosted environments.
 
 ---
 
